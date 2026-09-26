@@ -1,3 +1,5 @@
+//NOT PART OF THE PROJECT
+
 // import java.util.Scanner;
 
 public class NumberProgram {
