@@ -1,3 +1,5 @@
+//1.2.6
+
 public class Drug {
     private String name;
     private int dose; 
