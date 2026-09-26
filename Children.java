@@ -1,3 +1,5 @@
+//donated children
+
 public class Children {
      private int number;
 
@@ -12,4 +14,5 @@ public class Children {
     public void setNumber(int number) {
         this.number = number;
 }
+
 }
