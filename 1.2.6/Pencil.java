@@ -1,4 +1,4 @@
-//1.2.6
+//1.2.6 Assignment
 
 public class Pencil {
     private String brand;
@@ -84,7 +84,7 @@ public class Pencil {
     }
 
     public static void bribePencilManufacturerToClaimAuthenticity(Pencil pencil, Drug drugs) {
-       if (drugs.getName() == "coke" || drugs.getName() == "maruajana" && drugs.getDose() >= 100 ) {
+       if (drugs.getName().equals("coke") || drugs.getName().equals("maruajana") && drugs.getDose() >= 100 ) {
             pencil.setIsStolen(false);
        }
     }

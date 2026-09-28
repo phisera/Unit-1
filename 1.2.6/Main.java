@@ -1,4 +1,4 @@
-//1.2.6
+//1.2.6 Assignment
 
 public class Main {
     public static void main(String[] args){

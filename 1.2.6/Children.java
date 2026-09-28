@@ -1,4 +1,4 @@
-//1.2.6
+//1.2.6 Assignment
 //donated children
 
 public class Children {
