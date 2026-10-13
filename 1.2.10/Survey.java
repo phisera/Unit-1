@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Survey {
     public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     System.out.println("Welcome to this Survey! What is your name?");

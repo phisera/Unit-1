@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Madlib",
+            "request": "launch",
+            "mainClass": "Madlib",
+            "projectName": "Unit-1_5100080a"
+        },
+        {
+            "type": "java",
             "name": "MathProgram",
             "request": "launch",
             "mainClass": "MathProgram",
